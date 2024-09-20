@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0001-two-sum](https://github.com/Yuvasaiteja25/Leetcode-Problem-Solution/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Yuvasaiteja25/Leetcode-Problem-Solution/tree/master/0004-median-of-two-sorted-arrays) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Yuvasaiteja25/Leetcode-Problem-Solution/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0189-rotate-array](https://github.com/Yuvasaiteja25/Leetcode-Problem-Solution/tree/master/0189-rotate-array) |
 ## Hash Table
 |  |
@@ -28,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Yuvasaiteja25/Leetcode-Problem-Solution/tree/master/0004-median-of-two-sorted-arrays) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Yuvasaiteja25/Leetcode-Problem-Solution/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 ## Divide and Conquer
 |  |
 | ------- |
