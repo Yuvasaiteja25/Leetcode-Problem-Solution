@@ -34,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Yuvasaiteja25/Leetcode-Problem-Solution/tree/master/0004-median-of-two-sorted-arrays) |
+| [0023-merge-k-sorted-lists](https://github.com/Yuvasaiteja25/Leetcode-Problem-Solution/tree/master/0023-merge-k-sorted-lists) |
 ## Two Pointers
 |  |
 | ------- |
@@ -59,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0002-add-two-numbers](https://github.com/Yuvasaiteja25/Leetcode-Problem-Solution/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Yuvasaiteja25/Leetcode-Problem-Solution/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Yuvasaiteja25/Leetcode-Problem-Solution/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/Yuvasaiteja25/Leetcode-Problem-Solution/tree/master/0023-merge-k-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/Yuvasaiteja25/Leetcode-Problem-Solution/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
@@ -66,4 +68,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0002-add-two-numbers](https://github.com/Yuvasaiteja25/Leetcode-Problem-Solution/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Yuvasaiteja25/Leetcode-Problem-Solution/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/Yuvasaiteja25/Leetcode-Problem-Solution/tree/master/0206-reverse-linked-list) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Yuvasaiteja25/Leetcode-Problem-Solution/tree/master/0023-merge-k-sorted-lists) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Yuvasaiteja25/Leetcode-Problem-Solution/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
