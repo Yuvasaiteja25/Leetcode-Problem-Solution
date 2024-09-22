@@ -50,5 +50,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Yuvasaiteja25/Leetcode-Problem-Solution/tree/master/0002-add-two-numbers) |
 | [0189-rotate-array](https://github.com/Yuvasaiteja25/Leetcode-Problem-Solution/tree/master/0189-rotate-array) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Yuvasaiteja25/Leetcode-Problem-Solution/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Yuvasaiteja25/Leetcode-Problem-Solution/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
