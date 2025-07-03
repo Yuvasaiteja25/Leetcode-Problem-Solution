@@ -1,20 +1,20 @@
-class Solution:
-    def twoSum(self, nums: List[int], target: int) -> List[int]:
-        n=sorted(nums)
-        l1=[]
-        l=0
-        r=len(nums)-1
-        while(l<r):
-            if n[l]+n[r] == target:
-                l1.append(n[l])
-                l1.append(n[r])
-                break
-            elif n[l]+n[r] < target:
-                l+=1
-            else:
-                r-=1
-        l2=[]
-        l2.append(nums.index(l1[0]))
-        l2.append(nums.index(l1[1]))
-        return l2
+class Solution(object):
+    def twoSum(self, nums, target):
+        """
+        :type nums: List[int]
+        :type target: int
+        :rtype: List[int]
+        """
+        a=[0]*2
 
+        for i in range(len(nums)):
+            for j in range (i+1, len(nums)):
+
+                if nums[i]+nums[j] == target:
+                    a[0]=i
+                    a[1]=j
+
+        return a
+            
+        
+        
