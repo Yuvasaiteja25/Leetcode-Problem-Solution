@@ -1,13 +1,13 @@
-import numpy as np
-class Solution(object):
-    def findMedianSortedArrays(self, nums1, nums2):
-        """
-        :type nums1: List[int]
-        :type nums2: List[int]
-        :rtype: float
-        """
-        f=0.00000
-        num3=nums1+nums2
-        num3.sort()
-        f=np.median(num3)
-        return f
+class Solution:
+    def findMedianSortedArrays(self, nums1: List[int], nums2: List[int]) -> float:
+
+        num=nums1+nums2
+        num.sort()
+
+        if len(num)%2 == 0:
+            x=len(num)//2
+            return (num[x] + num[x-1])/2
+
+        x=len(num)//2
+        return num[x]
+        
