@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0005-longest-palindromic-substring](https://github.com/Yuvasaiteja25/Leetcode-Problem-Solution/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/Yuvasaiteja25/Leetcode-Problem-Solution/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/Yuvasaiteja25/Leetcode-Problem-Solution/tree/master/0008-string-to-integer-atoi) |
+| [1999-longer-contiguous-segments-of-ones-than-zeros](https://github.com/Yuvasaiteja25/Leetcode-Problem-Solution/tree/master/1999-longer-contiguous-segments-of-ones-than-zeros) |
 ## Sliding Window
 |  |
 | ------- |
