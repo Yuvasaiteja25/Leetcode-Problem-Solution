@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0006-zigzag-conversion](https://github.com/Yuvasaiteja25/Leetcode-Problem-Solution/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/Yuvasaiteja25/Leetcode-Problem-Solution/tree/master/0008-string-to-integer-atoi) |
 | [0067-add-binary](https://github.com/Yuvasaiteja25/Leetcode-Problem-Solution/tree/master/0067-add-binary) |
+| [0481-magical-string](https://github.com/Yuvasaiteja25/Leetcode-Problem-Solution/tree/master/0481-magical-string) |
 | [1999-longer-contiguous-segments-of-ones-than-zeros](https://github.com/Yuvasaiteja25/Leetcode-Problem-Solution/tree/master/1999-longer-contiguous-segments-of-ones-than-zeros) |
 ## Sliding Window
 |  |
@@ -52,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Yuvasaiteja25/Leetcode-Problem-Solution/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0031-next-permutation](https://github.com/Yuvasaiteja25/Leetcode-Problem-Solution/tree/master/0031-next-permutation) |
 | [0189-rotate-array](https://github.com/Yuvasaiteja25/Leetcode-Problem-Solution/tree/master/0189-rotate-array) |
+| [0481-magical-string](https://github.com/Yuvasaiteja25/Leetcode-Problem-Solution/tree/master/0481-magical-string) |
 ## Dynamic Programming
 |  |
 | ------- |
