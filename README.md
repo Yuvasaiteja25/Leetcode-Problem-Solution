@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0031-next-permutation](https://github.com/Yuvasaiteja25/Leetcode-Problem-Solution/tree/master/0031-next-permutation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Yuvasaiteja25/Leetcode-Problem-Solution/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0189-rotate-array](https://github.com/Yuvasaiteja25/Leetcode-Problem-Solution/tree/master/0189-rotate-array) |
+| [2681-put-marbles-in-bags](https://github.com/Yuvasaiteja25/Leetcode-Problem-Solution/tree/master/2681-put-marbles-in-bags) |
 ## Hash Table
 |  |
 | ------- |
@@ -87,6 +88,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Yuvasaiteja25/Leetcode-Problem-Solution/tree/master/0023-merge-k-sorted-lists) |
+| [2681-put-marbles-in-bags](https://github.com/Yuvasaiteja25/Leetcode-Problem-Solution/tree/master/2681-put-marbles-in-bags) |
 ## Merge Sort
 |  |
 | ------- |
@@ -95,11 +97,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Yuvasaiteja25/Leetcode-Problem-Solution/tree/master/0011-container-with-most-water) |
+| [2681-put-marbles-in-bags](https://github.com/Yuvasaiteja25/Leetcode-Problem-Solution/tree/master/2681-put-marbles-in-bags) |
 ## Sorting
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/Yuvasaiteja25/Leetcode-Problem-Solution/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Yuvasaiteja25/Leetcode-Problem-Solution/tree/master/0018-4sum) |
+| [2681-put-marbles-in-bags](https://github.com/Yuvasaiteja25/Leetcode-Problem-Solution/tree/master/2681-put-marbles-in-bags) |
 ## Simulation
 |  |
 | ------- |
