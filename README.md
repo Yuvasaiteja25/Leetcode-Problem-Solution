@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0067-add-binary](https://github.com/Yuvasaiteja25/Leetcode-Problem-Solution/tree/master/0067-add-binary) |
 | [0481-magical-string](https://github.com/Yuvasaiteja25/Leetcode-Problem-Solution/tree/master/0481-magical-string) |
 | [1999-longer-contiguous-segments-of-ones-than-zeros](https://github.com/Yuvasaiteja25/Leetcode-Problem-Solution/tree/master/1999-longer-contiguous-segments-of-ones-than-zeros) |
+| [3396-valid-word](https://github.com/Yuvasaiteja25/Leetcode-Problem-Solution/tree/master/3396-valid-word) |
 ## Sliding Window
 |  |
 | ------- |
