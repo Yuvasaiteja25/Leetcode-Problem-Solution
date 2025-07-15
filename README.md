@@ -15,11 +15,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Yuvasaiteja25/Leetcode-Problem-Solution/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0189-rotate-array](https://github.com/Yuvasaiteja25/Leetcode-Problem-Solution/tree/master/0189-rotate-array) |
 | [2681-put-marbles-in-bags](https://github.com/Yuvasaiteja25/Leetcode-Problem-Solution/tree/master/2681-put-marbles-in-bags) |
+| [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Yuvasaiteja25/Leetcode-Problem-Solution/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Yuvasaiteja25/Leetcode-Problem-Solution/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Yuvasaiteja25/Leetcode-Problem-Solution/tree/master/0003-longest-substring-without-repeating-characters) |
+| [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Yuvasaiteja25/Leetcode-Problem-Solution/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 ## String
 |  |
 | ------- |
