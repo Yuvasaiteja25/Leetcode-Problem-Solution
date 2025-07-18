@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0031-next-permutation](https://github.com/Yuvasaiteja25/Leetcode-Problem-Solution/tree/master/0031-next-permutation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Yuvasaiteja25/Leetcode-Problem-Solution/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0189-rotate-array](https://github.com/Yuvasaiteja25/Leetcode-Problem-Solution/tree/master/0189-rotate-array) |
+| [0518-coin-change-ii](https://github.com/Yuvasaiteja25/Leetcode-Problem-Solution/tree/master/0518-coin-change-ii) |
 | [2681-put-marbles-in-bags](https://github.com/Yuvasaiteja25/Leetcode-Problem-Solution/tree/master/2681-put-marbles-in-bags) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Yuvasaiteja25/Leetcode-Problem-Solution/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 ## Hash Table
@@ -62,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Yuvasaiteja25/Leetcode-Problem-Solution/tree/master/0005-longest-palindromic-substring) |
+| [0518-coin-change-ii](https://github.com/Yuvasaiteja25/Leetcode-Problem-Solution/tree/master/0518-coin-change-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
