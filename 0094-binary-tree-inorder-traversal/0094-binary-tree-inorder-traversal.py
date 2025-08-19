@@ -10,15 +10,18 @@ class Solution(object):
         :type root: Optional[TreeNode]
         :rtype: List[int]
         """
-        res = []
-        self.helper(root, res)
-        return res
-    
-    def helper(self, root, res):
-        if root:
-            self.helper(root.left, res)
-            res.append(root.val)
-            self.helper(root.right, res)
-
+        k=[]
+        self.helper(root,k)
+        return k
         
+
+
+    def helper(self,root,k):
+        if root is None:
+            return None
+
+        self.helper(root.left,k)
+        k.append(root.val)
+        self.helper(root.right,k)
+
         
