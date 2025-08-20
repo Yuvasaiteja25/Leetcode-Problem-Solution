@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0275-h-index-ii](https://github.com/Yuvasaiteja25/Leetcode-Problem-Solution/tree/master/0275-h-index-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Yuvasaiteja25/Leetcode-Problem-Solution/tree/master/0287-find-the-duplicate-number) |
 | [0518-coin-change-ii](https://github.com/Yuvasaiteja25/Leetcode-Problem-Solution/tree/master/0518-coin-change-ii) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Yuvasaiteja25/Leetcode-Problem-Solution/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2681-put-marbles-in-bags](https://github.com/Yuvasaiteja25/Leetcode-Problem-Solution/tree/master/2681-put-marbles-in-bags) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Yuvasaiteja25/Leetcode-Problem-Solution/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Yuvasaiteja25/Leetcode-Problem-Solution/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
@@ -32,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/Yuvasaiteja25/Leetcode-Problem-Solution/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Yuvasaiteja25/Leetcode-Problem-Solution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0229-majority-element-ii](https://github.com/Yuvasaiteja25/Leetcode-Problem-Solution/tree/master/0229-majority-element-ii) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Yuvasaiteja25/Leetcode-Problem-Solution/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Yuvasaiteja25/Leetcode-Problem-Solution/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Yuvasaiteja25/Leetcode-Problem-Solution/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 ## String
@@ -130,6 +132,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0016-3sum-closest](https://github.com/Yuvasaiteja25/Leetcode-Problem-Solution/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Yuvasaiteja25/Leetcode-Problem-Solution/tree/master/0018-4sum) |
 | [0229-majority-element-ii](https://github.com/Yuvasaiteja25/Leetcode-Problem-Solution/tree/master/0229-majority-element-ii) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Yuvasaiteja25/Leetcode-Problem-Solution/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2681-put-marbles-in-bags](https://github.com/Yuvasaiteja25/Leetcode-Problem-Solution/tree/master/2681-put-marbles-in-bags) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Yuvasaiteja25/Leetcode-Problem-Solution/tree/master/2888-minimum-index-of-a-valid-split) |
 ## Simulation
@@ -161,4 +164,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/Yuvasaiteja25/Leetcode-Problem-Solution/tree/master/0229-majority-element-ii) |
+## Counting Sort
+|  |
+| ------- |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Yuvasaiteja25/Leetcode-Problem-Solution/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
