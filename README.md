@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0275-h-index-ii](https://github.com/Yuvasaiteja25/Leetcode-Problem-Solution/tree/master/0275-h-index-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Yuvasaiteja25/Leetcode-Problem-Solution/tree/master/0287-find-the-duplicate-number) |
 | [0518-coin-change-ii](https://github.com/Yuvasaiteja25/Leetcode-Problem-Solution/tree/master/0518-coin-change-ii) |
+| [0982-minimum-increment-to-make-array-unique](https://github.com/Yuvasaiteja25/Leetcode-Problem-Solution/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Yuvasaiteja25/Leetcode-Problem-Solution/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2681-put-marbles-in-bags](https://github.com/Yuvasaiteja25/Leetcode-Problem-Solution/tree/master/2681-put-marbles-in-bags) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Yuvasaiteja25/Leetcode-Problem-Solution/tree/master/2888-minimum-index-of-a-valid-split) |
@@ -125,6 +126,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Yuvasaiteja25/Leetcode-Problem-Solution/tree/master/0011-container-with-most-water) |
+| [0982-minimum-increment-to-make-array-unique](https://github.com/Yuvasaiteja25/Leetcode-Problem-Solution/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [2681-put-marbles-in-bags](https://github.com/Yuvasaiteja25/Leetcode-Problem-Solution/tree/master/2681-put-marbles-in-bags) |
 ## Sorting
 |  |
@@ -132,6 +134,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0016-3sum-closest](https://github.com/Yuvasaiteja25/Leetcode-Problem-Solution/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Yuvasaiteja25/Leetcode-Problem-Solution/tree/master/0018-4sum) |
 | [0229-majority-element-ii](https://github.com/Yuvasaiteja25/Leetcode-Problem-Solution/tree/master/0229-majority-element-ii) |
+| [0982-minimum-increment-to-make-array-unique](https://github.com/Yuvasaiteja25/Leetcode-Problem-Solution/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Yuvasaiteja25/Leetcode-Problem-Solution/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2681-put-marbles-in-bags](https://github.com/Yuvasaiteja25/Leetcode-Problem-Solution/tree/master/2681-put-marbles-in-bags) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Yuvasaiteja25/Leetcode-Problem-Solution/tree/master/2888-minimum-index-of-a-valid-split) |
@@ -164,6 +167,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/Yuvasaiteja25/Leetcode-Problem-Solution/tree/master/0229-majority-element-ii) |
+| [0982-minimum-increment-to-make-array-unique](https://github.com/Yuvasaiteja25/Leetcode-Problem-Solution/tree/master/0982-minimum-increment-to-make-array-unique) |
 ## Counting Sort
 |  |
 | ------- |
