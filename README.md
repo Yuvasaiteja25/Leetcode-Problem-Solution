@@ -46,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0008-string-to-integer-atoi](https://github.com/Yuvasaiteja25/Leetcode-Problem-Solution/tree/master/0008-string-to-integer-atoi) |
 | [0067-add-binary](https://github.com/Yuvasaiteja25/Leetcode-Problem-Solution/tree/master/0067-add-binary) |
 | [0481-magical-string](https://github.com/Yuvasaiteja25/Leetcode-Problem-Solution/tree/master/0481-magical-string) |
+| [1250-longest-common-subsequence](https://github.com/Yuvasaiteja25/Leetcode-Problem-Solution/tree/master/1250-longest-common-subsequence) |
 | [1999-longer-contiguous-segments-of-ones-than-zeros](https://github.com/Yuvasaiteja25/Leetcode-Problem-Solution/tree/master/1999-longer-contiguous-segments-of-ones-than-zeros) |
 | [3396-valid-word](https://github.com/Yuvasaiteja25/Leetcode-Problem-Solution/tree/master/3396-valid-word) |
 ## Sliding Window
@@ -87,6 +88,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0005-longest-palindromic-substring](https://github.com/Yuvasaiteja25/Leetcode-Problem-Solution/tree/master/0005-longest-palindromic-substring) |
 | [0152-maximum-product-subarray](https://github.com/Yuvasaiteja25/Leetcode-Problem-Solution/tree/master/0152-maximum-product-subarray) |
 | [0518-coin-change-ii](https://github.com/Yuvasaiteja25/Leetcode-Problem-Solution/tree/master/0518-coin-change-ii) |
+| [1250-longest-common-subsequence](https://github.com/Yuvasaiteja25/Leetcode-Problem-Solution/tree/master/1250-longest-common-subsequence) |
 ## Bit Manipulation
 |  |
 | ------- |
