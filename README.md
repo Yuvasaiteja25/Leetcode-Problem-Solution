@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0275-h-index-ii](https://github.com/Yuvasaiteja25/Leetcode-Problem-Solution/tree/master/0275-h-index-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Yuvasaiteja25/Leetcode-Problem-Solution/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Yuvasaiteja25/Leetcode-Problem-Solution/tree/master/0300-longest-increasing-subsequence) |
+| [0498-diagonal-traverse](https://github.com/Yuvasaiteja25/Leetcode-Problem-Solution/tree/master/0498-diagonal-traverse) |
 | [0518-coin-change-ii](https://github.com/Yuvasaiteja25/Leetcode-Problem-Solution/tree/master/0518-coin-change-ii) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Yuvasaiteja25/Leetcode-Problem-Solution/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Yuvasaiteja25/Leetcode-Problem-Solution/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -147,6 +148,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Yuvasaiteja25/Leetcode-Problem-Solution/tree/master/0067-add-binary) |
+| [0498-diagonal-traverse](https://github.com/Yuvasaiteja25/Leetcode-Problem-Solution/tree/master/0498-diagonal-traverse) |
 ## Interactive
 |  |
 | ------- |
@@ -177,4 +179,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Yuvasaiteja25/Leetcode-Problem-Solution/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+## Matrix
+|  |
+| ------- |
+| [0498-diagonal-traverse](https://github.com/Yuvasaiteja25/Leetcode-Problem-Solution/tree/master/0498-diagonal-traverse) |
 <!---LeetCode Topics End-->
