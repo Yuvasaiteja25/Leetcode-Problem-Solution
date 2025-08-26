@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Yuvasaiteja25/Leetcode-Problem-Solution/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2681-put-marbles-in-bags](https://github.com/Yuvasaiteja25/Leetcode-Problem-Solution/tree/master/2681-put-marbles-in-bags) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Yuvasaiteja25/Leetcode-Problem-Solution/tree/master/2888-minimum-index-of-a-valid-split) |
+| [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Yuvasaiteja25/Leetcode-Problem-Solution/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Yuvasaiteja25/Leetcode-Problem-Solution/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/Yuvasaiteja25/Leetcode-Problem-Solution/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 ## Hash Table
