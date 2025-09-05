@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0518-coin-change-ii](https://github.com/Yuvasaiteja25/Leetcode-Problem-Solution/tree/master/0518-coin-change-ii) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Yuvasaiteja25/Leetcode-Problem-Solution/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Yuvasaiteja25/Leetcode-Problem-Solution/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/Yuvasaiteja25/Leetcode-Problem-Solution/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2681-put-marbles-in-bags](https://github.com/Yuvasaiteja25/Leetcode-Problem-Solution/tree/master/2681-put-marbles-in-bags) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Yuvasaiteja25/Leetcode-Problem-Solution/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Yuvasaiteja25/Leetcode-Problem-Solution/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
@@ -56,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Yuvasaiteja25/Leetcode-Problem-Solution/tree/master/0003-longest-substring-without-repeating-characters) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/Yuvasaiteja25/Leetcode-Problem-Solution/tree/master/2394-count-subarrays-with-score-less-than-k) |
 ## Binary Search
 |  |
 | ------- |
@@ -69,6 +71,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0287-find-the-duplicate-number](https://github.com/Yuvasaiteja25/Leetcode-Problem-Solution/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Yuvasaiteja25/Leetcode-Problem-Solution/tree/master/0300-longest-increasing-subsequence) |
 | [0374-guess-number-higher-or-lower](https://github.com/Yuvasaiteja25/Leetcode-Problem-Solution/tree/master/0374-guess-number-higher-or-lower) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/Yuvasaiteja25/Leetcode-Problem-Solution/tree/master/2394-count-subarrays-with-score-less-than-k) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -193,4 +196,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/Yuvasaiteja25/Leetcode-Problem-Solution/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
+## Prefix Sum
+|  |
+| ------- |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/Yuvasaiteja25/Leetcode-Problem-Solution/tree/master/2394-count-subarrays-with-score-less-than-k) |
 <!---LeetCode Topics End-->
