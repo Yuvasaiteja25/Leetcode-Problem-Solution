@@ -100,6 +100,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0067-add-binary](https://github.com/Yuvasaiteja25/Leetcode-Problem-Solution/tree/master/0067-add-binary) |
 | [0287-find-the-duplicate-number](https://github.com/Yuvasaiteja25/Leetcode-Problem-Solution/tree/master/0287-find-the-duplicate-number) |
 | [0476-number-complement](https://github.com/Yuvasaiteja25/Leetcode-Problem-Solution/tree/master/0476-number-complement) |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/Yuvasaiteja25/Leetcode-Problem-Solution/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 ## Math
 |  |
 | ------- |
@@ -184,4 +185,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0498-diagonal-traverse](https://github.com/Yuvasaiteja25/Leetcode-Problem-Solution/tree/master/0498-diagonal-traverse) |
+## Brainteaser
+|  |
+| ------- |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/Yuvasaiteja25/Leetcode-Problem-Solution/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
+## Enumeration
+|  |
+| ------- |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/Yuvasaiteja25/Leetcode-Problem-Solution/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 <!---LeetCode Topics End-->
