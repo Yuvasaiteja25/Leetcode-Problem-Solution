@@ -110,6 +110,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0002-add-two-numbers](https://github.com/Yuvasaiteja25/Leetcode-Problem-Solution/tree/master/0002-add-two-numbers) |
 | [0067-add-binary](https://github.com/Yuvasaiteja25/Leetcode-Problem-Solution/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/Yuvasaiteja25/Leetcode-Problem-Solution/tree/master/0189-rotate-array) |
+| [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Yuvasaiteja25/Leetcode-Problem-Solution/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 ## Linked List
 |  |
 | ------- |
